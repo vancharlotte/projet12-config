@@ -1,5 +1,0 @@
-spring.application.name=microservice-profil
-spring.cloud.config.label=microservice-profil
-
-server.port = 9002
-eureka.client.serviceUrl.defaultZone=http://eureka-server:8761/eureka/
